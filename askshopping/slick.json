@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "5e34231f43f7520c74630d57"
+  },
+  "name": "/Images/slider1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e34233d43f7520c74630d58"
+  },
+  "name": "Images/slider2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e34235743f7520c74630d59"
+  },
+  "name": "https://bit.ly/31ecSYM",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e34238c43f7520c74630d5b"
+  },
+  "name": "https://bit.ly/2GFzk3l",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e351a217ef74031a04866d6"
+  },
+  "name": "https://bit.ly/2RJYcgH"
+},{
+  "_id": {
+    "$oid": "5e3422fe43f7520c74630d56"
+  },
+  "name": "/Images/slider-img1.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e34236f43f7520c74630d5a"
+  },
+  "name": "https://bit.ly/2thlmSj",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e351a657ef74031a04866d7"
+  },
+  "name": "/Images/slider-img2.jpg"
+}]

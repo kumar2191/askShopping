@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "629203dda5315f4e306b717a"
+  },
+  "galleryImage": "/Images/gi1.jpg",
+  "galleryTitle": "Sports",
+  "gallerySubTitle": "G11",
+  "galleryLink": "/mens",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e400630a1abb51b2417dae1"
+  },
+  "galleryImage": "/Images/gi2.jpg",
+  "galleryTitle": "T-shirt",
+  "gallerySubTitle": "Indian Trads",
+  "galleryLink": "/mens",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e40104cc9072d2f9cb18ee1"
+  },
+  "galleryImage": "/Images/gi3.jpg",
+  "galleryTitle": "Casuals Jeans",
+  "gallerySubTitle": "Indian Trads Men",
+  "galleryLink": "/mens",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e4010eac9072d2f9cb18ee2"
+  },
+  "galleryImage": "https://bit.ly/2OGaAwb",
+  "galleryTitle": "Chudi",
+  "gallerySubTitle": "Indian Trads",
+  "galleryLink": "/womens",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e4011aec9072d2f9cb18ee3"
+  },
+  "galleryImage": "/Images/gi6.jpg",
+  "galleryTitle": "Saree",
+  "gallerySubTitle": "Indian Trads",
+  "galleryLink": "/womens",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e401282c9072d2f9cb18ee4"
+  },
+  "galleryImage": "/Images/gi4.jpg",
+  "galleryTitle": "Slim Sports",
+  "gallerySubTitle": "American Fashion",
+  "galleryLink": "/mens",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e401328c9072d2f9cb18ee6"
+  },
+  "galleryImage": "/Images/gi5.jpg",
+  "galleryTitle": "Casual'shoes",
+  "gallerySubTitle": "American Fashion",
+  "galleryLink": "/shoes",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e400be3c9072d2f9cb18ee0"
+  },
+  "galleryImage": "https://bit.ly/3bofxDA",
+  "galleryTitle": "T-shirt",
+  "gallerySubTitle": "Turn to Coder",
+  "galleryLink": "/mens",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e4012c4c9072d2f9cb18ee5"
+  },
+  "galleryImage": "https://bit.ly/37aDc7h",
+  "galleryTitle": "Casual's",
+  "gallerySubTitle": "American Fashion",
+  "galleryLink": "/mens",
+  "__v": 0
+}]

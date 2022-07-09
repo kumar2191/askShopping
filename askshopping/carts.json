@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "5e8c190d2b268515c27ee08b"
+  },
+  "quantity": 1,
+  "Product": {
+    "$oid": "5e560fe28c1f9629c4e25920"
+  },
+  "size": "S",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e91c187f95b392bf6411bf6"
+  },
+  "quantity": 1,
+  "Product": {
+    "$oid": "5e560fe28c1f9629c4e25920"
+  },
+  "size": "XXL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9d947d8884b5135b71f506"
+  },
+  "quantity": 1,
+  "Product": {
+    "$oid": "5e560fe28c1f9629c4e25920"
+  },
+  "size": "S",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e9e7cfbc0638719ae425173"
+  },
+  "quantity": 1,
+  "user_id": {
+    "$oid": "5e688530cdaadf27861a350f"
+  },
+  "Product": {
+    "$oid": "5e5615483b4a2333cc7a97cc"
+  },
+  "size": "S",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6295f802ae567940a8df2c70"
+  },
+  "quantity": 4,
+  "user_id": {
+    "$oid": "6290917869d0c10c0ceb3ce4"
+  },
+  "Product": {
+    "$oid": "5e4544e715c5ca25ecfe548a"
+  },
+  "size": "S",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62974421abc0c31b48009a35"
+  },
+  "quantity": 1,
+  "user_id": {
+    "$oid": "6290917869d0c10c0ceb3ce4"
+  },
+  "Product": {
+    "$oid": "5e560fe28c1f9629c4e25920"
+  },
+  "size": "M",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629744eaabc0c31b48009a66"
+  },
+  "quantity": 1,
+  "user_id": {
+    "$oid": "6290917869d0c10c0ceb3ce4"
+  },
+  "Product": {
+    "$oid": "5e5615483b4a2333cc7a97cc"
+  },
+  "size": "XXL",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629b12a603ab7613280d486f"
+  },
+  "quantity": 1,
+  "user_id": {
+    "$oid": "6290917869d0c10c0ceb3ce4"
+  },
+  "Product": {
+    "$oid": "5e56305f3b4a2333cc7a97d0"
+  },
+  "size": "XL",
+  "__v": 0
+}]

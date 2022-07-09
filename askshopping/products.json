@@ -1,0 +1,306 @@
+[{
+  "_id": {
+    "$oid": "5e4544e715c5ca25ecfe548a"
+  },
+  "productImage": [
+    "https://bit.ly/37nysez",
+    "https://bit.ly/37nyWBp"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "brand": "Road star",
+  "name": "T-shirt",
+  "Rate": 359,
+  "description": "Blue shade",
+  "code": "PRODUCT002",
+  "__v": 0,
+  "offer": 40
+},{
+  "_id": {
+    "$oid": "5e560fe28c1f9629c4e25920"
+  },
+  "productImage": [
+    "https://bit.ly/2HV09Bp",
+    "https://bit.ly/2HTxtZm",
+    "https://bit.ly/2HSzk0u",
+    "https://bit.ly/2SZyUMh"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "userId": "5e4f783effd02429fc91b229",
+  "brand": "Dillinger",
+  "name": "Wink New Half Sleeve",
+  "Rate": 299,
+  "description": "pure yellow's",
+  "code": "PRODUCT006",
+  "__v": 0,
+  "offer": 10
+},{
+  "_id": {
+    "$oid": "5e5613f73b4a2333cc7a97cb"
+  },
+  "productImage": [
+    "https://bit.ly/2w9kT5r",
+    "https://bit.ly/3c8cjoj",
+    "https://bit.ly/2wLDxkh",
+    "https://bit.ly/2HXDV1y"
+  ],
+  "size": [
+    "S",
+    "M",
+    "XL",
+    "XXL"
+  ],
+  "userId": "5e4f783effd02429fc91b229",
+  "brand": "Rigo",
+  "name": "KIPSTA",
+  "Rate": 2599,
+  "description": "Men's Football Jersey F100 - Red",
+  "code": "PRODUCT007",
+  "__v": 0,
+  "offer": 30
+},{
+  "_id": {
+    "$oid": "5e5615483b4a2333cc7a97cc"
+  },
+  "productImage": [
+    "https://bit.ly/2VlDS7C",
+    "https://bit.ly/2HSTNT1",
+    "https://bit.ly/2TmtCcO",
+    "https://bit.ly/3cexwgv"
+  ],
+  "size": [
+    "S",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "userId": "5e4f783effd02429fc91b229",
+  "brand": "Here & Now",
+  "name": "KIPSTA",
+  "Rate": 3599,
+  "description": "Neon Green Half Sleeve T-Shirt",
+  "code": "PRODUCT008",
+  "__v": 0,
+  "offer": 45
+},{
+  "_id": {
+    "$oid": "5e561bcf3b4a2333cc7a97cd"
+  },
+  "productImage": [
+    "https://bit.ly/2T0vYz6",
+    "https://bit.ly/381vIEb",
+    "https://bit.ly/2Tck5Vs",
+    "https://bit.ly/391gPmr"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "userId": "5e4f783effd02429fc91b229",
+  "brand": "Road star",
+  "name": "NEON",
+  "Rate": 599,
+  "description": "Neon Orange Full Sleeve T-Shirt",
+  "code": "PRODUCT009",
+  "__v": 0,
+  "offer": 25
+},{
+  "_id": {
+    "$oid": "5e562dec3b4a2333cc7a97cf"
+  },
+  "productImage": [
+    "https://bit.ly/390ywmn",
+    "https://bit.ly/2vhbfOg",
+    "https://bit.ly/39Y3ED0",
+    "https://bit.ly/390zaAj"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "userId": "5e4f783effd02429fc91b229",
+  "brand": "Rigo",
+  "name": "Helmont",
+  "Rate": 7999,
+  "description": "Solid Men Hooded Neck Yellow T-Shirt",
+  "code": "PRODUCT011",
+  "__v": 0,
+  "offer": 55
+},{
+  "_id": {
+    "$oid": "5e56305f3b4a2333cc7a97d0"
+  },
+  "productImage": [
+    "https://bit.ly/2HYszdK",
+    "https://bit.ly/32sNVJr",
+    "https://bit.ly/2SXEtuC",
+    "https://bit.ly/39ZUHce",
+    ""
+  ],
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "userId": "5e4f783effd02429fc91b229",
+  "brand": "Here & Now",
+  "name": "Maniac",
+  "Rate": 1759,
+  "description": "Solid Men s White, Black T-Shirt",
+  "code": "PRODUCT012",
+  "__v": 0,
+  "offer": 20
+},{
+  "_id": {
+    "$oid": "5e453ada15c5ca25ecfe5489"
+  },
+  "productImage": [
+    "https://bit.ly/2Sn21Zn",
+    "https://bit.ly/2SF82Q9"
+  ],
+  "size": [
+    "S",
+    "M"
+  ],
+  "brand": "Dillinger",
+  "name": "T-shirt",
+  "Rate": 299,
+  "description": "B/w shade",
+  "code": "PRODUCT001",
+  "__v": 0,
+  "offer": 30
+},{
+  "_id": {
+    "$oid": "5e46450194038c102c80a10a"
+  },
+  "productImage": [
+    "https://bit.ly/2OQNRxA",
+    "https://bit.ly/3bCkOrl"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "brand": "Rigo",
+  "name": "Black/T-shirt",
+  "Rate": 599,
+  "description": "Black shade with print calor's",
+  "code": "PRODUCT003",
+  "__v": 0,
+  "offer": 20
+},{
+  "_id": {
+    "$oid": "5e4648b994038c102c80a10b"
+  },
+  "productImage": [
+    "https://bit.ly/2vt4VTI",
+    "https://bit.ly/3bBjRzE",
+    "https://bit.ly/3bv3uo6"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "brand": "Here & Now",
+  "name": "White T-shirt",
+  "Rate": 430,
+  "description": "Whit shade",
+  "code": "PRODUCT004",
+  "__v": 0,
+  "offer": 50
+},{
+  "_id": {
+    "$oid": "5e465bb394038c102c80a10c"
+  },
+  "productImage": [
+    "https://bit.ly/37nhKvT",
+    "https://bit.ly/31TltA6",
+    "https://bit.ly/37sO4NQ",
+    "https://bit.ly/2Su0CR7"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "brand": "Road star",
+  "name": "Men Shirt",
+  "Rate": 1430,
+  "description": "black and gold prints",
+  "code": "PRODUCT005",
+  "__v": 0,
+  "offer": 30
+},{
+  "_id": {
+    "$oid": "5e562c803b4a2333cc7a97ce"
+  },
+  "productImage": [
+    "https://bit.ly/2Pr3xYL",
+    "https://bit.ly/392eGHl",
+    "https://bit.ly/2VpT7fM",
+    "https://bit.ly/2Pr3xYL"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "userId": "5e4f783effd02429fc91b229",
+  "brand": "Dillinger",
+  "name": "Tripr",
+  "Rate": 2599,
+  "description": "Abstract Men Hooded Neck Dark Blue T-Shirt",
+  "code": "PRODUCT010",
+  "__v": 0,
+  "offer": 35
+},
+{
+  "_id": {
+    "$oid": "5e4544e715c5ca25ecfe548c"
+  },
+  "productImage": [
+    "https://bit.ly/37nysez",
+    "https://bit.ly/37nyWBp"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "brand": "Road star",
+  "name": "T-shirt",
+  "Rate": 50000,
+  "description": "Blue shade",
+  "code": "PRODUCT002",
+  "__v": 0,
+  "offer": 60
+}]

@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6290917869d0c10c0ceb3ce4"
+  },
+  "name": "G Purusothaman",
+  "email": "purusothaman@rvsgroup.com",
+  "password": "$2a$10$1qBGgcCQhkK9ZyQ4HEyBWOV9tuwlnuLI57DLXxjD4DfUvjRHmqFaq",
+  "selectedOption": "male",
+  "phone": 9952646133,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e688530cdaadf27861a350f"
+  },
+  "name": "ashok",
+  "email": "ashokask186@gmail.com",
+  "password": "$2a$10$PGmo4ct.z2s0i3x.i0/O..mMxumu9WHS7LAwyaoHRLXGP4yXcfIVa",
+  "selectedOption": "male",
+  "phone": 8072491610,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e6b362edc1a1e2f767bc9db"
+  },
+  "name": "elakiyaa",
+  "email": "elakiya@gmail.com",
+  "password": "$2a$10$ZtUqvyYQWd685cdRl6qU3.PB1v0zN0tTFNWvLH0S4taEUsM2nLVxG",
+  "selectedOption": "female",
+  "phone": 8072491610,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e7b79163fc3e50e10139944"
+  },
+  "name": "vicky",
+  "email": "vicky@gmail.com",
+  "password": "$2a$10$VT.OZ9smE84T32bQtXgR0Owrf/cZK8fqN5gyC0sXAizS3VosRhDBC",
+  "selectedOption": "male",
+  "phone": 8608302508,
+  "__v": 0
+}]

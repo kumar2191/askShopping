@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "5e81bf39c84e0c2094be2286"
+  },
+  "Type": "Work",
+  "userId": {
+    "$oid": "5e688530cdaadf27861a350f"
+  },
+  "address": "2/448 sowdaswarinagar 3rd street",
+  "locality": "veerapandi",
+  "city": "Tirupur",
+  "state": "Tamil Nadu",
+  "pincode": 641605,
+  "name": "Ashok",
+  "phone": 8072491610,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5e81dbb98bc4290857f18e1f"
+  },
+  "Type": "Home",
+  "userId": {
+    "$oid": "5e7b79163fc3e50e10139944"
+  },
+  "address": "2/448 sowdaswarinagar 3rd street",
+  "locality": "veerapandi",
+  "city": "CBE",
+  "state": "Tamil Nadu",
+  "pincode": 641402,
+  "name": "vicky",
+  "phone": 8072491612,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6297445aabc0c31b48009a59"
+  },
+  "Type": "Home",
+  "userId": {
+    "$oid": "6290917869d0c10c0ceb3ce4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6297445cabc0c31b48009a5c"
+  },
+  "Type": "Home",
+  "userId": {
+    "$oid": "6290917869d0c10c0ceb3ce4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6297445cabc0c31b48009a5f"
+  },
+  "Type": "Home",
+  "userId": {
+    "$oid": "6290917869d0c10c0ceb3ce4"
+  },
+  "__v": 0
+}]
