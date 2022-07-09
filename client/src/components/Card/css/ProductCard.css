@@ -1,0 +1,71 @@
+ #productCard{
+    overflow: none !important;
+    width: 50%;
+    height: 70%;
+ }
+.productImage{
+    width: 100%;
+    height: 100%;
+}
+.filterProductHover{
+    position: absolute;
+    width: 100%;
+    height: 50%;
+}
+
+#productCard {
+    position: relative;
+    width: 100%;
+}
+.filterHoverButton{
+    width:100%;
+    background: orange !important;
+    border: none !important;
+}
+.filterProductHover {
+    padding: 10px 10px 5px 10px;
+    position: absolute;
+    top: 270px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 40%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: white;
+}
+
+#productCard:hover .filterProductHover {
+    opacity: 1;
+}
+.filterSizes{
+    margin-top: 13px;
+    /* margin-left: 5px; */
+}
+/* .filterProductHover {
+    border-radius: 20px 20px 0px 0px;
+} */
+.rateText{
+    color: red !important;
+    font-weight: 600;
+    margin-left: 10px;
+}
+.a-tag,.a-tag:hover{
+    text-decoration: none;
+}
+.des{
+    color:grey !important;
+}
+.productName{
+    color: black !important;
+}
+.rate{
+    color: black;
+    font-weight: 600;
+}
+.brandText{
+    color: gray;
+    font-size: 15px;
+    float: right ;
+}

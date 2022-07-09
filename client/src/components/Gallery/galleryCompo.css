@@ -1,0 +1,27 @@
+.galleryRow{
+    margin-top: 50px;
+}
+.galleryImg {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.galleryCard {
+    border: none !important;
+    overflow: none !important;
+    height: 100%;
+    opacity: 0.5;
+}
+
+.galleryCard:hover {
+    opacity: 1;
+}
+
+.gallerySubtitle {
+    color: orange !important;
+}
+.galleryLink,.galleryLink:hover{
+    text-decoration: none;
+    color: #000;
+}

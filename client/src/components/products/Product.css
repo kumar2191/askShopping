@@ -1,0 +1,17 @@
+.sizeRadioButton{
+     margin-left: 15px; 
+     border-radius: 5px; 
+     background: orange;
+     color: white;
+     padding: 5px;
+}
+.sideNav {
+     margin-top: 50px;
+}
+
+.colorValue {
+     margin-left: 20px;
+}
+.sideBar{
+     margin-left:20px;
+}

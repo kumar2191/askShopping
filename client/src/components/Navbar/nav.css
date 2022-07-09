@@ -1,0 +1,60 @@
+.navbar{
+    height: 90px !important;
+    width: 100% !important;
+    color:whitesmoke;
+    position:fixed;
+
+
+}
+.nav-bar {
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+.nav-bar2 {
+    font-weight: 600;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.bag,.address,.order{
+    color: #ff3f6c !important;
+}
+.navs2{
+    text-align: center !important;
+}
+.searchBar{
+        margin-left: 150px;
+        width: 500px;
+}
+.navs{
+    position: absolute;
+    left: 785px;
+    top:25px;
+}
+var 
+input:focus{
+    border: none;
+    outline: none;
+}
+.brandlogo{
+    margin-left: 30px;
+    width:50px;
+    height:50px;
+    transition: all 0.5s;
+}
+i{
+    color: black !important;
+}
+#searchIcon{
+    color:gray !important;
+}
+.sideIcon{
+    margin-left:85px;
+}
+.hide{
+    display: none;
+}
+.brandlogo:hover{
+    width:70px;
+    height:70px;
+}

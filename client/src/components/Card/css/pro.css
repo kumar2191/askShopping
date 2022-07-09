@@ -1,0 +1,67 @@
+#c1{
+    color: black !important;
+    font-weight: 600 !important;
+}
+#c2{
+    color:orange !important;
+    font-weight: 600 !important;
+}
+.RemoveBtn{
+    width: 100%;
+}
+.sizeLabel{
+    margin-top: 8px !important;
+}
+
+#hexagon2{
+    font-weight: 600;
+    color: orangered;
+}
+.productTotalPrice{
+    font-weight: 550;
+    color: black;
+}
+.productTotalPrice2{
+    font-weight: 550;
+    color: black;
+    float: right;
+}
+
+.cartSidePriceRow{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.placeOrderBtn{
+    width: 100%;
+    background-color: #ff3f6c !important;
+    font-weight: 600 !important;
+}
+.cartSidediscount{
+    color: green;
+    float: right !important;
+}
+.cartSideCoupon{
+    color: #ff3f6c;
+    border: 1px solid #ff3f6c;
+    font-weight: 600 !important;
+}
+.cartSideCoupon2{
+    color: #ff3f6c;
+}
+.cardContainer{
+    padding: 50px !important;
+}
+.bagContainer{
+    padding: 10%;
+    text-align: center;
+}
+.addItemsBag{
+    margin-top: 20px;
+    background: #ff3f6c !important;
+    color: white !important;
+}
+.NoBag{
+    color: #ff3f6c;
+    font-size: large;
+    font-weight: 600;
+}

@@ -1,0 +1,11 @@
+.footerContent{
+     position: relative;
+     margin-top: 60px;
+     width: 100%;
+     /* background-color: green; */
+}
+.footerContent:hover{
+     color: red;
+     /* background-color: green; */
+    
+}

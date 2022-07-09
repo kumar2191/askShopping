@@ -1,0 +1,112 @@
+.productDetailImage{
+    width:450px;
+    height:450px;
+    transition: transform .9s;
+}
+.productDetailImage:hover{
+    -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+}
+.productImageCol{
+    padding: 10px !important;
+    overflow:hidden;
+}
+.productImageContainer{
+    padding: 10px !important;
+}
+.offerText{
+    color: orange;
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.RateText{
+    color: gray;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.priceText{
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+}
+.TagCard{
+    color:black;
+    font-size: 15px;
+
+}
+.TagPrice{
+    color: orangered;
+    font-weight: 600;
+}
+.TagSave{
+    color: green;
+    font-weight: 600;
+}
+.TagCode{
+    color: black;
+    font-weight: 600;
+}
+.productName{
+    font-weight: 400;
+}
+.productDes{
+    color: gray;
+    font-weight: 100;
+}
+.includeTax{
+    color: green;
+    font-weight: 400;
+}
+.productSizeButton{
+    border-radius: 50% !important;
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    border: 0.5px solid black;
+    background: none !important;
+    color: black !important;
+}
+.productSizeButton:hover{
+    background-color: orange !important;
+    color: white !important;
+    border: 1px solid orange !important;
+}
+.productSizeButton:focus{
+    border: 1px solid orange !important;
+    background-color: orange !important;
+    color: white !important;
+}
+.AddCartButton{
+    width:100% !important;
+    height: 50px;
+    color:white !important;
+    background-color:#ff527b !important;
+}
+.addText{
+    margin-left: 10px;
+    font-weight: 600;
+}
+.WhislistButton{
+    width:100% !important;
+    height: 50px;
+    background:none !important;
+    color: black !important;
+}
+.addIcon{
+    color:white !important;
+}
+.specificationCard{
+    border-bottom: 1px solid black !important;
+}
+/* .specificationContent{
+    color:black;
+    font-weight: 600;
+} */
+.specificationContents{
+    color:grey;
+    font-weight: 600;
+    cursor: pointer;
+}

@@ -1,0 +1,68 @@
+.whislistContainer{
+    padding-top:5%;
+}
+.whislistImage{
+    height: 300px !important;
+}
+.wishlistDescription{
+    font-size: xx-small;
+    color: gray;
+}
+.whislistName{
+    font-size: small;
+    font-weight: 600;
+}
+.whislistRate{
+    font-size: small;
+    font-weight: 600;
+}
+.whislistprice{
+    margin-left: 10px;
+    font-size: x-small;
+    font-weight: 600;
+    color: gray;
+}
+.whislistOffer{
+    margin-left: 10px;
+    font-size: x-small;
+    font-weight: 600;
+    color:orange
+}
+.whislistBtn{
+    text-align: center !important;
+    color: gray;
+}
+.addBagAlink,.addBagAlink:hover{
+    color: gray;
+    text-decoration: none;
+}
+.whislistColom{
+    padding: 20px;
+}
+.cancelBtnWhislist{
+    position: absolute;
+    width: 13% !important;
+    border-radius: 80% !important;
+    height: 7% !important;
+    padding: 2% !important;
+    margin-top: 4% !important;
+    margin-left: 82% !important;
+    background: #dedede !important;
+    color: #5b676d !important;
+}
+.emptyWhislistDiv{
+    text-align: center;
+}
+.emptyWhislistColom{
+    padding: 15%;
+}
+.NoWhislist{
+    color: #ff3f6c;
+    font-size: large;
+    font-weight: 600;
+}
+.addItemsWhislist{
+    margin-top: 20px;
+    background: #ff3f6c !important;
+    color: white !important;
+}

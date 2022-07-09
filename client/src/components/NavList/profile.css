@@ -1,0 +1,13 @@
+.profileCard{
+    position: fixed;
+    margin-left: 63%;
+    width: 320px;
+    z-index: 100;
+    height: 350px;
+}
+.profilebtn{
+    width:100%;
+}
+.userName{
+    color:orange;
+}

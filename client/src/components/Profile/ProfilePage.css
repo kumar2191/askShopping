@@ -1,0 +1,17 @@
+.profilePage{
+    width: 50%;
+    margin-left: 350px;
+    margin-top:30px;
+}
+.profileContainer{
+        background-color: orangered;
+        padding-top: 30px;
+        padding-bottom: 70px;
+}
+.updateButton{
+    float: left;
+    width: 100%;
+}
+.profilePageHeading{
+    text-align: center;
+}

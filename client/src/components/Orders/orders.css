@@ -1,0 +1,121 @@
+.ordersContainer{
+    padding: 60px !important;
+}
+.orderHeading{
+    font-size: small !important;
+    color: gray;
+    font-weight: 600;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.OrdRet{
+    color:green !important;
+    font-size: small;
+    font-weight: 200;
+}
+.OrdRet:hover{
+    font-weight: 600;
+    cursor: pointer;
+}
+.orderSideNav{
+    font-size: small;
+    font-weight: 200;
+}
+.orderSideNav:hover{
+    font-weight: 600;
+    cursor: pointer;
+}
+.orderProductImg{
+    height: 120px !important;
+    width:  100px !important;
+}
+.orderProductColom{
+    padding: 10px;
+}
+.orderProductDes{
+    font-size: small;
+    font-weight: 100;
+    color: gray;
+}
+.orderProductName,.orderNumber,.orderProductPrice,.Account{
+    font-weight: 600;
+}
+.orderProductSizeandQty{
+    font-size: small;
+    color: gray;
+}
+.orderStatus{
+    color: green;
+    font-size: small;
+    font-weight: 600;
+}
+.orderCancel{
+    color: red;
+    font-size: small;
+    font-weight: 600;
+}
+.Orderemail{
+    font-size: small;
+    color: gray;
+    font-weight: 600;
+}
+.orderDetails{
+    color: green;
+    text-decoration: none;
+}
+.orderDetails:hover{
+    color: green;
+    font-weight: 600;
+    text-decoration: none;
+}
+.orderProductArrowColom{
+    padding: 50px;
+}
+.placedDate{
+    font-size: x-small;
+}
+.placedDiv{
+    padding: 20px;
+}
+.mrp{
+    font-size: x-small;
+}
+.placedDate2{
+    font-size: small;
+    font-weight: 100;
+    color: gray;
+}
+.placedDateName,.orderNumber{
+    font-size: small;
+    font-weight: 600;
+    color: black;
+}
+.placedDatePrice{
+    font-size: small;
+}
+.TotalAmount{
+    font-weight: 600;
+}
+.orderProductSingle{
+    padding-left: 30px;
+}
+.cancelBtn{
+    width: 100% !important;
+}
+.noOrders{
+    padding: 10%;
+    text-align: center;
+}
+.noOrderColom{
+    padding: 10%;
+}
+.addItemsOrder{
+    margin-top: 20px;
+    background: #ff3f6c !important;
+    color: white !important;
+}
+.NoOrders{
+    color: #ff3f6c;
+    font-size: large;
+    font-weight: 600;
+}

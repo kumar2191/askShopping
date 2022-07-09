@@ -1,0 +1,34 @@
+.COD{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size:small;
+}
+.Address{
+    font-size:small;
+}
+.idFides{
+    display: none !important;
+}
+.important{
+    color: red;
+}
+.contDetails{
+    padding: 5px;
+}
+
+.addressBtn{
+    width: 100%;
+    background-color: #ff3f6c !important;
+    font-weight: 600 !important;
+}
+.addAddressBorder{
+    border: 2px solid #ff3f6c !important;
+    border-style: dashed !important;
+    padding: 5px;
+    cursor: pointer;
+    margin-top: 5px;
+    font-weight: 600;
+}
+.addressContainer{
+    padding: 50px !important;
+}
